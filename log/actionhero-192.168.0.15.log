@@ -1,0 +1,18 @@
+{"level":"warning","message":"running with fakeredis","timestamp":"2014-02-22T08:57:27.444Z"}
+{"level":"notice","message":"running in development mode","timestamp":"2014-02-22T08:57:27.475Z"}
+{"level":"info","message":"environment: development","timestamp":"2014-02-22T08:57:27.475Z"}
+{"level":"notice","message":"pid: 38199","timestamp":"2014-02-22T08:57:27.476Z"}
+{"level":"info","message":"ensuring the existence of the chatRoom: defaultRoom","timestamp":"2014-02-22T08:57:27.484Z"}
+{"level":"notice","message":"starting server: web","timestamp":"2014-02-22T08:57:27.485Z"}
+{"level":"notice","message":"starting server: websocket","timestamp":"2014-02-22T08:57:27.487Z"}
+{"level":"notice","message":"webSockets bound to 0.0.0.0:8080 mounted at /faye","timestamp":"2014-02-22T08:57:27.487Z"}
+{"level":"notice","message":"server ID: 192.168.0.15","timestamp":"2014-02-22T08:57:28.483Z"}
+{"level":"notice","message":"*** Server Started @ 2014-02-22 00:57:27 ***","timestamp":"2014-02-22T08:57:28.483Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\",\"limit\":100,\"offset\":0}","duration":1,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-02-22T08:57:41.575Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\",\"limit\":100,\"offset\":0}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-02-22T08:57:49.076Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"limit\":100,\"offset\":0}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-02-22T08:57:54.161Z"}
+{"to":"127.0.0.1","action":"status","params":"{\"action\":\"status\",\"limit\":100,\"offset\":0,\"apiVersion\":1}","duration":7,"error":"null","level":"info","message":"[ action @ web ]","timestamp":"2014-02-22T08:57:58.526Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\",\"limit\":100,\"offset\":0}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-02-22T08:58:01.180Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] new connection","timestamp":"2014-02-22T08:58:04.042Z"}
+{"to":"127.0.0.1","level":"info","message":"[server: websocket] connection closed","timestamp":"2014-02-22T08:58:41.999Z"}
+{"to":"127.0.0.1","action":"{no action}","params":"{\"action\":\"\",\"\":\"\",\"limit\":100,\"offset\":0}","duration":0,"error":"\"Error: {no action} is not a known action or that is not a valid apiVersion.\"","level":"info","message":"[ action @ web ]","timestamp":"2014-02-22T08:58:42.110Z"}
